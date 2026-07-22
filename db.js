@@ -358,7 +358,7 @@ img: "https://static.tildacdn.com/tild3333-3931-4939-b737-663832396631/VAS01190_
 {
   title: "Лиса-лампа",
   desc: "Лампа включается нажатием на носик, есть два режима свечения, 30 см",
-  categories: ["animatronics",  "souvenirs"],
+  categories: ["souvenirs"],
 tags: [ "аниматроника", "сувенир", "коллекционные изделия", "лампа", "лиса", "пластик", "интерактивный" ],
 img: "https://static.tildacdn.com/tild3037-6130-4337-b932-383136313733/b1ced697-5f14-4d53-a.webp"
 },
